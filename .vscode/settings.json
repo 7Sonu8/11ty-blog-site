@@ -1,0 +1,14 @@
+{
+  "emmet.includeLanguages": {
+    "njk": "html"
+  },
+  "emmet.excludeLanguages": [
+    
+
+    "markdown"
+  ],
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.syntaxProfiles": {
+  
+  }
+}
